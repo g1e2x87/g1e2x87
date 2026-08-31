@@ -1,1 +1,9 @@
-<div align="center">\n\n<br><br><br>\n\n# Keep it simple.\n\n<br><br><br>\n\n</div>\n
+<div align="center">
+
+<br><br><br>
+
+# Keep it simple.
+
+<br><br><br>
+
+</div>
